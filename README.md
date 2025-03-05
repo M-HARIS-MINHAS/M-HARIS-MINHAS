@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm M Haris</h1>
 <h3 align="center">A passionate Agentic AI and Full stack Web and App Developer</h3>
 
